@@ -1,4 +1,4 @@
-# Fashion_recommender
+# Image-recommendation-system
 This Recommdation System uses Concurrent Neural Network(CNN)
 
 # Links 
